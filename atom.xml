@@ -3,11 +3,11 @@
   <title>Hexo</title>
   
   
-  <link href="http://ningzzz.github.io/project/atom.xml" rel="self"/>
+  <link href="http://ningzzz.github.io/atom.xml" rel="self"/>
   
-  <link href="http://ningzzz.github.io/project/"/>
+  <link href="http://ningzzz.github.io/"/>
   <updated>2023-09-14T08:02:12.406Z</updated>
-  <id>http://ningzzz.github.io/project/</id>
+  <id>http://ningzzz.github.io/</id>
   
   <author>
     <name>NING</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>Hello World</title>
-    <link href="http://ningzzz.github.io/project/2023/09/14/hello-world/"/>
-    <id>http://ningzzz.github.io/project/2023/09/14/hello-world/</id>
+    <link href="http://ningzzz.github.io/2023/09/14/hello-world/"/>
+    <id>http://ningzzz.github.io/2023/09/14/hello-world/</id>
     <published>2023-09-14T08:02:12.406Z</published>
     <updated>2023-09-14T08:02:12.406Z</updated>
     
